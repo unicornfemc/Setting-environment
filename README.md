@@ -1,0 +1,8 @@
+# Setting-environment
+目的：
+局域网内通过本地PC配置VSCODE，通过Python连接威联通NAS数据库
+环境：
+VScode安装
+ython3.10
+威联通Nas安装MariaDB phpMyAdmin
+
