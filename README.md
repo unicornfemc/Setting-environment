@@ -11,4 +11,8 @@ Python3.10
 
 威联通Nas安装MariaDB phpMyAdmin
 
+VScode插件 SQLtool 连接 威联通Nas安装MariaDB
+
+Python 爬虫 清洗 Vscode 保存
+
 
