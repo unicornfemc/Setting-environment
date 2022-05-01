@@ -5,9 +5,15 @@
 
 环境：
 
-VScode安装
+安装VScode
 
-Python3.10
+安装annaconda3,增加stockEn环境(python3.10),在stockEn环境下
+conda切换环境
+anaconda prompt下切换到stockEn环境
+conda activate 环境名称
+安装金融库
+pip install tushare
+pip install baostock
 
 威联通Nas安装MariaDB phpMyAdmin
 

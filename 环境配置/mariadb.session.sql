@@ -1,1 +1,1 @@
-SELECT * from qwe
+SELECT * FROM qwe
