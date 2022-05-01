@@ -13,6 +13,19 @@
             "database": "test",
             "username": "root2",
             "password": "Beyond09"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "192.168.31.167",
+            "port": 3306,
+            "driver": "MariaDB",
+            "name": "stockdate",
+            "database": "stockdate",
+            "username": "root2",
+            "password": "Beyond09"
         }
     ]
 }
