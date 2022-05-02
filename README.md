@@ -7,7 +7,7 @@
 2.安装annaconda3,增加stockEn环境(python3.10),在stockEn环境下
 3.conda切换环境
 anaconda prompt下切换到stockEn环境
-conda activate 环境名称
+conda activate stockEn
 4.安装金融库
 pip install tushare
 pip install baostock
